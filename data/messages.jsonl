@@ -1,0 +1,1198 @@
+{"id": 0, "text": "hi we bought another van", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1, "text": "pls can i switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2, "text": "following up - can you add Lone Star GC as certificate holder", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 3, "text": "hi shopping around for business insurance also why did my premium go up this month", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 4, "text": "thanks got a late payment notice", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 5, "text": "following up - one of our trucks was in an accident also the venue wants our insurance paperwork before the event", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 6, "text": "hi when is my next payment due", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 7, "text": "thanks we bought another van", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 8, "text": "asap please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 9, "text": "hello team our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 10, "text": "hi can you quote commercial auto for 38 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 11, "text": "looking for insurance for my new shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 12, "text": "thanks opening a shop next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 13, "text": "following up - need the acord 25 form also our payroll went up, do I need to tell you", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 14, "text": "following up - can you add abc builders as certificate holder", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 15, "text": "pls add a new vehicle to my policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 16, "text": "following up - kitchen fire this morning", "intent": "claim_report", "channel": "call", "split": "new_wording"}
+{"id": 17, "text": "following up - my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "call", "split": "new_wording"}
+{"id": 18, "text": "hi shopping around for business insurance", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 19, "text": "thanks send the cert to Lone Star GC today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 20, "text": "hello team need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 21, "text": "thanks someone broke into the gym and stole equipment", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 22, "text": "quick question: looking for insurance for my new store", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 23, "text": "employee got hurt on the job today", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 24, "text": "asap pricing for a BOP policy?", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 25, "text": "urgent add a new vehicle to my policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 26, "text": "hi add a new vehicle to my policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 27, "text": "following up - opening a shop next month, what coverage do I need", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 28, "text": "quick question: how much would workers comp cost for 18 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 29, "text": "hello team looking for insurance for my new salon", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 30, "text": "hello team please terminate effective end of month", "intent": "cancel", "channel": "sms", "split": "new_wording"}
+{"id": 31, "text": "what's the rate for liability coverage", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 32, "text": "urgent please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 33, "text": "following up - looking for insurance for my new office", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 34, "text": "change the business name on the policy", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 35, "text": "kitchen fire this morning", "intent": "claim_report", "channel": "sms", "split": "new_wording"}
+{"id": 36, "text": "hello team how much would workers comp cost for 26 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 37, "text": "hello team looking for insurance for my new gym", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 38, "text": "hello team send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 39, "text": "quick question: can i switch to monthly payments also please send a certificate of insurance to my client", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 40, "text": "following up - what's the rate for liability coverage", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 41, "text": "following up - looking for insurance for my new restaurant", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 42, "text": "thanks a customer slipped in my office, what do i do", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 43, "text": "urgent can I switch to monthly payments", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 44, "text": "hello team shopping around for business insurance", "intent": "new_quote", "channel": "call", "split": "new_wording"}
+{"id": 45, "text": "thanks update my card on file", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 46, "text": "thanks can i switch to monthly payments", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 47, "text": "pls we hired 16 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 48, "text": "can i switch to monthly payments", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 49, "text": "is there a fee for paying in installments also opening a store next month, what coverage do i need", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 50, "text": "pls our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 51, "text": "hi my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 52, "text": "urgent send the cert to metro dev today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 53, "text": "hi my landlord says i need insurance before i sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 54, "text": "following up - I need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 55, "text": "pls add an additional insured to the GL policy", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 56, "text": "looking for insurance for my new restaurant", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 57, "text": "pls my landlord says i need insurance before i sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 58, "text": "following up - our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 59, "text": "following up - is there a fee for paying in installments", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 60, "text": "following up - need a quote for general liability for my office", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 61, "text": "hi what's the rate for liability coverage", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 62, "text": "following up - the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 63, "text": "thanks our driver rear-ended someone", "intent": "claim_report", "channel": "sms", "split": "new_wording"}
+{"id": 64, "text": "quick question: when is my next payment due also our driver rear-ended someone", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 65, "text": "hi we hired 29 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 66, "text": "quick question: my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 67, "text": "hello team need a quote for general liability for my salon", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 68, "text": "hi we hired 7 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 69, "text": "thanks client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 71, "text": "hi can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 72, "text": "thanks change the business name on the policy", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 73, "text": "can you add Lone Star GC as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 75, "text": "following up - employee got hurt on the job today", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 76, "text": "following up - general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 77, "text": "urgent change the business name on the policy", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 78, "text": "asap someone broke into the office and stole equipment also opening a store next month, what coverage do I need", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 79, "text": "pls we moved to a new address, update the policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 80, "text": "thanks found cheaper, cancel at renewal", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 81, "text": "hello team a customer slipped in my office, what do I do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 83, "text": "hello team client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 84, "text": "hello team can you quote commercial auto for 37 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 85, "text": "pls need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 86, "text": "pls pricing for a bop policy?", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 87, "text": "hi got a late payment notice", "intent": "billing", "channel": "sms", "split": "new_wording"}
+{"id": 88, "text": "urgent need a quote for general liability for my shop also add an additional insured to the GL policy", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 89, "text": "asap I want to cancel my policy", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 90, "text": "urgent change the business name on the policy also send the cert to ABC Builders today please", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 91, "text": "hi update my card on file", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 92, "text": "quick question: the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 93, "text": "urgent opening a restaurant next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 94, "text": "quick question: looking for insurance for my new salon", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 95, "text": "hi opening a shop next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 96, "text": "asap send the cert to Lone Star GC today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 97, "text": "asap send the cert to Metro Dev today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 98, "text": "asap one of our trucks was in an accident", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 99, "text": "following up - send the cert to abc builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 100, "text": "quick question: shopping around for business insurance", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 101, "text": "urgent a customer slipped in my shop, what do I do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 102, "text": "thanks shopping around for business insurance", "intent": "new_quote", "channel": "call", "split": "new_wording"}
+{"id": 103, "text": "pls my card was charged twice", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 104, "text": "quick question: general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 105, "text": "hi need the acord 25 form", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 106, "text": "quick question: change the business name on the policy", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 107, "text": "pls what's the rate for liability coverage", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 109, "text": "hi employee got hurt on the job today", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 110, "text": "quick question: send the cert to Metro Dev today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 111, "text": "hi need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 112, "text": "asap water damage at the shop last night, need to file", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 113, "text": "following up - is there a fee for paying in installments also water damage at the shop last night, need to file", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 114, "text": "hello team we moved to a new address, update the policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 115, "text": "thanks looking for insurance for my new gym", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 117, "text": "quick question: got a late payment notice", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 118, "text": "following up - change the business name on the policy", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 119, "text": "hi water damage at the shop last night, need to file also don't need the auto policy anymore", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 120, "text": "can you quote commercial auto for 15 trucks also someone broke into the store and stole equipment", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 121, "text": "hello team we hired 39 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 122, "text": "urgent my card was charged twice", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 123, "text": "thanks going with another broker", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 124, "text": "hi need a COI for a job site tomorrow also please terminate effective end of month", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 125, "text": "urgent what's the rate for liability coverage", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 126, "text": "hello team general contractor is asking for proof of insurance also don't need the auto policy anymore", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 127, "text": "asap opening a office next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 128, "text": "urgent change the business name on the policy also our driver rear-ended someone", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 129, "text": "asap closing the business, please cancel coverage", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 130, "text": "asap our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 131, "text": "hello team add an additional insured to the gl policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 132, "text": "going with another broker", "intent": "cancel", "channel": "call", "split": "new_wording"}
+{"id": 133, "text": "hi my card was charged twice", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 134, "text": "quick question: need a quote for general liability for my restaurant also we moved to a new address, update the policy", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 136, "text": "please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 137, "text": "hello team update my card on file", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 138, "text": "urgent send the cert to abc builders today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 139, "text": "thanks need the acord 25 form also a client is suing us over the work we did", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 140, "text": "following up - remove a driver from the auto policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 141, "text": "looking for insurance for my new salon", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 142, "text": "urgent we bought another van", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 143, "text": "quick question: my card was charged twice", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 144, "text": "pls can you quote commercial auto for 39 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 146, "text": "need the acord 25 form", "intent": "certificate_request", "channel": "call", "split": "new_wording"}
+{"id": 147, "text": "following up - please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 148, "text": "asap a client is suing us over the work we did", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 150, "text": "asap add a new vehicle to my policy", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 151, "text": "following up - shopping around for business insurance", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 152, "text": "hello team our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 154, "text": "quick question: send the cert to Lone Star GC today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 155, "text": "urgent can you add Lone Star GC as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 156, "text": "hi i need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 157, "text": "hello team going with another broker", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 160, "text": "following up - opening a gym next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 162, "text": "we hired 26 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 164, "text": "quick question: we hired 36 more employees, update workers comp also pricing for a BOP policy?", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 165, "text": "we moved to a new address, update the policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 166, "text": "quick question: need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 167, "text": "quick question: send the cert to Metro Dev today please also can you quote commercial auto for 5 trucks", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 168, "text": "hello team add a new vehicle to my policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 169, "text": "following up - please terminate effective end of month also employee got hurt on the job today", "intent": "cancel", "channel": "call", "split": "new_wording"}
+{"id": 170, "text": "following up - my card was charged twice", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 171, "text": "hello team we moved to a new address, update the policy also stop my policy from renewing", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 172, "text": "quick question: we hired 36 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 173, "text": "hi can I switch to monthly payments", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 175, "text": "pls the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 176, "text": "asap is there a fee for paying in installments", "intent": "billing", "channel": "sms", "split": "new_wording"}
+{"id": 177, "text": "following up - pricing for a bop policy?", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 179, "text": "pls why did my premium go up this month", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 180, "text": "add an additional insured to the GL policy", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 182, "text": "is there a fee for paying in installments also can you add ABC Builders as certificate holder", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 183, "text": "our driver rear-ended someone", "intent": "claim_report", "channel": "call", "split": "new_wording"}
+{"id": 184, "text": "quick question: need the acord 25 form", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 185, "text": "urgent we hired 38 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 186, "text": "urgent client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 187, "text": "pls add a new vehicle to my policy also pricing for a bop policy?", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 188, "text": "hello team kitchen fire this morning also we moved to a new address, update the policy", "intent": "claim_report", "channel": "sms", "split": "new_wording"}
+{"id": 189, "text": "hello team my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 190, "text": "quick question: stop my policy from renewing also send the cert to abc builders today please", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 191, "text": "pls my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 193, "text": "thanks general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 194, "text": "hello team need the acord 25 form", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 195, "text": "we sold the company, end the coverage", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 197, "text": "following up - pricing for a BOP policy?", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 198, "text": "urgent looking for insurance for my new gym", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 199, "text": "pls can you add Lone Star GC as certificate holder also we moved to a new address, update the policy", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 200, "text": "asap my card was charged twice", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 202, "text": "thanks add an additional insured to the gl policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 205, "text": "urgent how much would workers comp cost for 14 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 206, "text": "urgent update my card on file", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 207, "text": "following up - looking for insurance for my new shop", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 208, "text": "asap please terminate effective end of month", "intent": "cancel", "channel": "call", "split": "new_wording"}
+{"id": 209, "text": "hi general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 211, "text": "pls how much would workers comp cost for 5 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 212, "text": "please terminate effective end of month", "intent": "cancel", "channel": "sms", "split": "new_wording"}
+{"id": 213, "text": "urgent kitchen fire this morning", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 214, "text": "client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 215, "text": "hello team water damage at the shop last night, need to file", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 216, "text": "quick question: please terminate effective end of month", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 217, "text": "hello team the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 219, "text": "thanks need the acord 25 form also pricing for a BOP policy?", "intent": "certificate_request", "channel": "call", "split": "new_wording"}
+{"id": 220, "text": "we bought another van", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 221, "text": "asap we sold the company, end the coverage also opening a store next month, what coverage do I need", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 222, "text": "following up - a client is suing us over the work we did", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 223, "text": "hi we sold the company, end the coverage", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 224, "text": "quick question: what's the rate for liability coverage", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 226, "text": "urgent general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 228, "text": "thanks please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 229, "text": "hello team can I switch to monthly payments also need a quote for general liability for my store", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 230, "text": "pls going with another broker", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 231, "text": "pls we bought another van", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 233, "text": "thanks need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 234, "text": "asap when is my next payment due", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 236, "text": "quick question: is there a fee for paying in installments", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 237, "text": "quick question: client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 238, "text": "urgent send the cert to Metro Dev today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 240, "text": "hi can you add Metro Dev as certificate holder also we moved to a new address, update the policy", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 242, "text": "what's the rate for liability coverage also why did my premium go up this month", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 243, "text": "asap can you add abc builders as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 244, "text": "thanks we hired 10 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 245, "text": "quick question: kitchen fire this morning", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 246, "text": "following up - send the cert to lone star gc today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 247, "text": "hello team got a late payment notice", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 248, "text": "our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 249, "text": "hi a client is suing us over the work we did", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 250, "text": "hello team send the cert to Lone Star GC today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 251, "text": "pls general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 252, "text": "urgent general contractor is asking for proof of insurance also going with another broker", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 253, "text": "asap need the acord 25 form", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 254, "text": "urgent opening a salon next month, what coverage do I need", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 255, "text": "urgent can you quote commercial auto for 12 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 256, "text": "need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 257, "text": "quick question: when is my next payment due", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 258, "text": "quick question: add an additional insured to the GL policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 259, "text": "hello team can you add metro dev as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 262, "text": "quick question: can you add Metro Dev as certificate holder also when is my next payment due", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 263, "text": "don't need the auto policy anymore also our payroll went up, do i need to tell you", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 264, "text": "i need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 265, "text": "hi looking for insurance for my new salon", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 266, "text": "hello team general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 267, "text": "general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 268, "text": "hi please terminate effective end of month", "intent": "cancel", "channel": "sms", "split": "new_wording"}
+{"id": 269, "text": "thanks send the cert to abc builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 270, "text": "hello team closing the business, please cancel coverage", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 271, "text": "following up - need a quote for general liability for my shop", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 273, "text": "quick question: can i switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 274, "text": "pls closing the business, please cancel coverage", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 276, "text": "asap client won't pay until they get our insurance certificate also water damage at the shop last night, need to file", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 277, "text": "urgent don't need the auto policy anymore", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 278, "text": "hello team please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 280, "text": "urgent remove a driver from the auto policy", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 282, "text": "pls add an additional insured to the gl policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 283, "text": "thanks is there a fee for paying in installments", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 284, "text": "following up - can you add metro dev as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 285, "text": "asap I need an invoice for my accountant", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 286, "text": "hello team please send a certificate of insurance to my client also our payroll went up, do i need to tell you", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 287, "text": "pls why did my premium go up this month also please terminate effective end of month", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 289, "text": "hi someone broke into the shop and stole equipment", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 290, "text": "urgent client won't pay until they get our insurance certificate also can I switch to monthly payments", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 291, "text": "urgent why did my premium go up this month", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 293, "text": "hello team can you add ABC Builders as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 294, "text": "urgent we hired 2 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 295, "text": "following up - update my card on file", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 296, "text": "following up - can you quote commercial auto for 12 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 297, "text": "water damage at the shop last night, need to file", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 298, "text": "thanks can you add ABC Builders as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 299, "text": "urgent is there a fee for paying in installments also please terminate effective end of month", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 300, "text": "following up - don't need the auto policy anymore", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 301, "text": "urgent opening a store next month, what coverage do I need also the venue wants our insurance paperwork before the event", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 302, "text": "pls water damage at the shop last night, need to file", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 303, "text": "asap what's the rate for liability coverage", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 305, "text": "hello team shopping around for business insurance also we bought another van", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 306, "text": "thanks why did my premium go up this month", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 307, "text": "following up - looking for insurance for my new shop also is there a fee for paying in installments", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 309, "text": "hi change the business name on the policy", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 310, "text": "hello team can i switch to monthly payments also a client is suing us over the work we did", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 311, "text": "quick question: add a new vehicle to my policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 312, "text": "following up - looking for insurance for my new salon also a customer slipped in my store, what do I do", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 313, "text": "pls send the cert to Lone Star GC today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 314, "text": "following up - when is my next payment due", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 316, "text": "hello team is there a fee for paying in installments", "intent": "billing", "channel": "sms", "split": "new_wording"}
+{"id": 318, "text": "urgent pricing for a BOP policy?", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 319, "text": "pls someone broke into the salon and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 320, "text": "pls how much would workers comp cost for 15 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 324, "text": "pls someone broke into the office and stole equipment", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 325, "text": "pls we hired 33 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 328, "text": "urgent how much would workers comp cost for 16 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 329, "text": "hello team found cheaper, cancel at renewal", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 330, "text": "urgent I need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 333, "text": "need a quote for general liability for my store", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 334, "text": "hi why did my premium go up this month", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 335, "text": "my landlord says i need insurance before i sign the lease", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 336, "text": "thanks someone broke into the store and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 337, "text": "quick question: found cheaper, cancel at renewal", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 338, "text": "asap how much would workers comp cost for 17 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 339, "text": "urgent we hired 27 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 341, "text": "hello team need a quote for general liability for my office", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 343, "text": "quick question: a customer slipped in my store, what do I do also pricing for a BOP policy?", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 344, "text": "hello team how much would workers comp cost for 31 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 347, "text": "urgent my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 349, "text": "asap stop my policy from renewing", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 350, "text": "following up - shopping around for business insurance also is there a fee for paying in installments", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 352, "text": "following up - why did my premium go up this month", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 353, "text": "thanks how much would workers comp cost for 29 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 356, "text": "following up - got a late payment notice", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 357, "text": "quick question: client won't pay until they get our insurance certificate also when is my next payment due", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 359, "text": "thanks kitchen fire this morning", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 360, "text": "why did my premium go up this month", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 361, "text": "hi send the cert to Lone Star GC today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 363, "text": "stop my policy from renewing", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 370, "text": "our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 372, "text": "following up - water damage at the shop last night, need to file", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 374, "text": "thanks my card was charged twice", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 380, "text": "quick question: our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 381, "text": "hello team don't need the auto policy anymore also a customer slipped in my store, what do I do", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 382, "text": "thanks we hired 20 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 383, "text": "quick question: our driver rear-ended someone", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 384, "text": "following up - how much would workers comp cost for 10 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 385, "text": "following up - add a new vehicle to my policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 386, "text": "hello team need a quote for general liability for my shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 388, "text": "quick question: opening a shop next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 389, "text": "pls our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 390, "text": "hello team why did my premium go up this month", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 392, "text": "following up - the venue wants our insurance paperwork before the event also opening a store next month, what coverage do I need", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 393, "text": "quick question: add an additional insured to the gl policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 396, "text": "asap shopping around for business insurance", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 398, "text": "urgent can you add abc builders as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 399, "text": "thanks pricing for a BOP policy?", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 400, "text": "following up - how much would workers comp cost for 23 employees also update my card on file", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 401, "text": "can you add lone star gc as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 403, "text": "hi client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 405, "text": "when is my next payment due", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 407, "text": "asap looking for insurance for my new restaurant", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 408, "text": "quick question: we hired 7 more employees, update workers comp also please send a certificate of insurance to my client", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 409, "text": "following up - send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 411, "text": "quick question: update my card on file", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 414, "text": "urgent how much would workers comp cost for 7 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 418, "text": "add a new vehicle to my policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 419, "text": "urgent water damage at the shop last night, need to file", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 420, "text": "asap i want to cancel my policy", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 421, "text": "hi send the cert to Metro Dev today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 422, "text": "urgent looking for insurance for my new restaurant", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 423, "text": "hi stop my policy from renewing", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 424, "text": "thanks what's the rate for liability coverage", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 425, "text": "pls looking for insurance for my new salon", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 427, "text": "urgent change the business name on the policy also water damage at the shop last night, need to file", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 428, "text": "following up - found cheaper, cancel at renewal", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 430, "text": "hi closing the business, please cancel coverage also pricing for a bop policy?", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 431, "text": "thanks shopping around for business insurance also our driver rear-ended someone", "intent": "new_quote", "channel": "call", "split": "new_wording"}
+{"id": 432, "text": "send the cert to metro dev today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 433, "text": "asap need a quote for general liability for my office", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 435, "text": "following up - shopping around for business insurance also don't need the auto policy anymore", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 436, "text": "quick question: is there a fee for paying in installments also we hired 5 more employees, update workers comp", "intent": "billing", "channel": "call", "split": "new_wording"}
+{"id": 437, "text": "thanks remove a driver from the auto policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 438, "text": "hello team can you add Metro Dev as certificate holder also shopping around for business insurance", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 439, "text": "hi send the cert to Lone Star GC today please also kitchen fire this morning", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 440, "text": "quick question: can you quote commercial auto for 7 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 442, "text": "hi send the cert to lone star gc today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 445, "text": "pls need a quote for general liability for my store", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 446, "text": "how much would workers comp cost for 37 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 448, "text": "hello team I need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 451, "text": "quick question: remove a driver from the auto policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 453, "text": "urgent when is my next payment due", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 454, "text": "quick question: please terminate effective end of month also the venue wants our insurance paperwork before the event", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 455, "text": "quick question: closing the business, please cancel coverage", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 456, "text": "thanks looking for insurance for my new shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 457, "text": "urgent the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 458, "text": "quick question: need the acord 25 form also can you quote commercial auto for 5 trucks", "intent": "certificate_request", "channel": "call", "split": "new_wording"}
+{"id": 460, "text": "thanks i want to cancel my policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 461, "text": "asap we hired 38 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 462, "text": "pls need a quote for general liability for my gym also update my card on file", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 465, "text": "thanks can you add abc builders as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 467, "text": "hi what's the rate for liability coverage also closing the business, please cancel coverage", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 469, "text": "asap send the cert to abc builders today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 470, "text": "pls can you add Lone Star GC as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 471, "text": "following up - need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 472, "text": "asap my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 473, "text": "hi what's the rate for liability coverage also a customer slipped in my store, what do I do", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 476, "text": "hi our driver rear-ended someone", "intent": "claim_report", "channel": "call", "split": "new_wording"}
+{"id": 478, "text": "following up - i need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 480, "text": "hello team looking for insurance for my new restaurant", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 482, "text": "quick question: please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 484, "text": "hi is there a fee for paying in installments", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 486, "text": "hi we moved to a new address, update the policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 487, "text": "hello team we bought another van", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 489, "text": "hello team opening a salon next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 492, "text": "asap general contractor is asking for proof of insurance", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 493, "text": "pls is there a fee for paying in installments", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 496, "text": "need a quote for general liability for my store also kitchen fire this morning", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 497, "text": "following up - we bought another van", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 498, "text": "urgent we moved to a new address, update the policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 499, "text": "thanks going with another broker also why did my premium go up this month", "intent": "cancel", "channel": "call", "split": "new_wording"}
+{"id": 500, "text": "asap add an additional insured to the GL policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 501, "text": "thanks need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 502, "text": "urgent employee got hurt on the job today", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 504, "text": "asap how much would workers comp cost for 5 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 508, "text": "hello team one of our trucks was in an accident", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 509, "text": "thanks send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 511, "text": "hi we hired 2 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 512, "text": "quick question: please send a certificate of insurance to my client also a customer slipped in my store, what do I do", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 514, "text": "stop my policy from renewing also what's the rate for liability coverage", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 515, "text": "hi opening a salon next month, what coverage do I need also we bought another van", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 516, "text": "pls one of our trucks was in an accident", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 520, "text": "urgent don't need the auto policy anymore also can you add ABC Builders as certificate holder", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 522, "text": "hi client won't pay until they get our insurance certificate also I want to cancel my policy", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 525, "text": "hello team add an additional insured to the GL policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 529, "text": "urgent shopping around for business insurance", "intent": "new_quote", "channel": "call", "split": "new_wording"}
+{"id": 530, "text": "hello team looking for insurance for my new shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 532, "text": "asap looking for insurance for my new store", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 533, "text": "thanks we sold the company, end the coverage also general contractor is asking for proof of insurance", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 539, "text": "quick question: stop my policy from renewing", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 540, "text": "asap pricing for a bop policy?", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 541, "text": "hi please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 545, "text": "following up - add an additional insured to the GL policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 546, "text": "hi I want to cancel my policy", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 548, "text": "thanks when is my next payment due", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 549, "text": "asap shopping around for business insurance also going with another broker", "intent": "new_quote", "channel": "call", "split": "new_wording"}
+{"id": 551, "text": "asap can you quote commercial auto for 11 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 555, "text": "following up - we hired 14 more employees, update workers comp also don't need the auto policy anymore", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 557, "text": "how much would workers comp cost for 22 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 562, "text": "thanks pricing for a bop policy?", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 564, "text": "quick question: general contractor is asking for proof of insurance also going with another broker", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 565, "text": "thanks can you add lone star gc as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 568, "text": "pls can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 571, "text": "asap our driver rear-ended someone", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 572, "text": "hello team can you quote commercial auto for 24 trucks also please send a certificate of insurance to my client", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 574, "text": "pls please send a certificate of insurance to my client", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 575, "text": "urgent we hired 5 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 576, "text": "hello team opening a restaurant next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 577, "text": "pls send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 578, "text": "following up - looking for insurance for my new store", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 579, "text": "quick question: I need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 580, "text": "asap we moved to a new address, update the policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 581, "text": "hi our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 582, "text": "quick question: pricing for a bop policy?", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 584, "text": "hi can you add metro dev as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 586, "text": "quick question: looking for insurance for my new gym", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 587, "text": "hello team the venue wants our insurance paperwork before the event also i need an invoice for my accountant", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 588, "text": "asap remove a driver from the auto policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 590, "text": "following up - pricing for a BOP policy? also a customer slipped in my store, what do I do", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 592, "text": "quick question: general contractor is asking for proof of insurance also stop my policy from renewing", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 594, "text": "pricing for a BOP policy?", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 596, "text": "closing the business, please cancel coverage", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 598, "text": "asap we hired 22 more employees, update workers comp also need the acord 25 form", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 600, "text": "asap client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 601, "text": "urgent how much would workers comp cost for 15 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 604, "text": "hi don't need the auto policy anymore", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 609, "text": "asap how much would workers comp cost for 35 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 610, "text": "pls I need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 611, "text": "urgent pricing for a BOP policy? also stop my policy from renewing", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 612, "text": "asap i need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 613, "text": "pls water damage at the shop last night, need to file also I need an invoice for my accountant", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 614, "text": "urgent our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 615, "text": "quick question: can you add Lone Star GC as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 617, "text": "hi employee got hurt on the job today also add a new vehicle to my policy", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 619, "text": "hello team can you add ABC Builders as certificate holder also we sold the company, end the coverage", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 620, "text": "hello team remove a driver from the auto policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 622, "text": "asap why did my premium go up this month", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 623, "text": "asap need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 625, "text": "asap a customer slipped in my salon, what do I do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 629, "text": "urgent send the cert to lone star gc today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 631, "text": "asap a customer slipped in my store, what do I do", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 632, "text": "need a COI for a job site tomorrow also need a quote for general liability for my store", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 635, "text": "thanks one of our trucks was in an accident", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 636, "text": "hi don't need the auto policy anymore also need a coi for a job site tomorrow", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 637, "text": "asap when is my next payment due also the venue wants our insurance paperwork before the event", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 639, "text": "thanks need the acord 25 form also one of our trucks was in an accident", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 651, "text": "pls looking for insurance for my new office also remove a driver from the auto policy", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 652, "text": "urgent my card was charged twice also general contractor is asking for proof of insurance", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 654, "text": "pls got a late payment notice", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 657, "text": "my landlord says I need insurance before I sign the lease also please send a certificate of insurance to my client", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 661, "text": "following up - client won't pay until they get our insurance certificate also change the business name on the policy", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 664, "text": "hello team add a new vehicle to my policy also can you quote commercial auto for 5 trucks", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 666, "text": "pls the venue wants our insurance paperwork before the event also a customer slipped in my store, what do i do", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 667, "text": "following up - need a quote for general liability for my store", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 668, "text": "hi can you quote commercial auto for 18 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 670, "text": "thanks we moved to a new address, update the policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 671, "text": "quick question: can you quote commercial auto for 35 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 672, "text": "thanks how much would workers comp cost for 31 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 675, "text": "urgent remove a driver from the auto policy also don't need the auto policy anymore", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 677, "text": "looking for insurance for my new office also a customer slipped in my store, what do I do", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 678, "text": "thanks we hired 2 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 679, "text": "hi can you add lone star gc as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 680, "text": "hi pricing for a bop policy? also need the acord 25 form", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 683, "text": "urgent a client is suing us over the work we did", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 687, "text": "pls shopping around for business insurance", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 689, "text": "thanks the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 693, "text": "following up - can you add ABC Builders as certificate holder", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 694, "text": "following up - can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 696, "text": "urgent is there a fee for paying in installments", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 700, "text": "urgent can you quote commercial auto for 38 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 701, "text": "thanks need a quote for general liability for my gym", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 702, "text": "hello team can you quote commercial auto for 29 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 703, "text": "pls I need an invoice for my accountant also send the cert to ABC Builders today please", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 705, "text": "thanks water damage at the shop last night, need to file", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 706, "text": "thanks send the cert to Metro Dev today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 707, "text": "urgent looking for insurance for my new office", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 711, "text": "urgent pricing for a bop policy?", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 712, "text": "asap going with another broker", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 713, "text": "hello team need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 716, "text": "thanks stop my policy from renewing", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 717, "text": "quick question: we moved to a new address, update the policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 718, "text": "hello team opening a store next month, what coverage do I need", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 719, "text": "urgent someone broke into the salon and stole equipment", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 721, "text": "urgent our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 722, "text": "hi remove a driver from the auto policy", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 723, "text": "urgent can you quote commercial auto for 17 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 728, "text": "thanks opening a restaurant next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 733, "text": "quick question: why did my premium go up this month", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 734, "text": "asap the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 737, "text": "pls can you quote commercial auto for 36 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 738, "text": "asap employee got hurt on the job today", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 740, "text": "hi send the cert to abc builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 741, "text": "quick question: my landlord says I need insurance before I sign the lease also need the acord 25 form", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 750, "text": "pls i want to cancel my policy", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 751, "text": "following up - our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 753, "text": "following up - we moved to a new address, update the policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 756, "text": "asap our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 760, "text": "hello team need the acord 25 form also we bought another van", "intent": "certificate_request", "channel": "call", "split": "new_wording"}
+{"id": 761, "text": "pls how much would workers comp cost for 33 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 762, "text": "urgent add an additional insured to the gl policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 764, "text": "hi going with another broker", "intent": "cancel", "channel": "call", "split": "new_wording"}
+{"id": 766, "text": "I need an invoice for my accountant also don't need the auto policy anymore", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 768, "text": "hi the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 769, "text": "following up - we hired 26 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 770, "text": "thanks need a quote for general liability for my office", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 773, "text": "hello team need a quote for general liability for my store", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 774, "text": "thanks can you quote commercial auto for 37 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 776, "text": "someone broke into the gym and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 777, "text": "quick question: need a COI for a job site tomorrow also closing the business, please cancel coverage", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 779, "text": "need a quote for general liability for my restaurant", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 780, "text": "thanks need the acord 25 form also need a quote for general liability for my store", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 781, "text": "pls need the acord 25 form", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 783, "text": "pls kitchen fire this morning", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 791, "text": "hello team our driver rear-ended someone", "intent": "claim_report", "channel": "call", "split": "new_wording"}
+{"id": 792, "text": "urgent the venue wants our insurance paperwork before the event also my landlord says I need insurance before I sign the lease", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 794, "text": "urgent opening a store next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 795, "text": "asap don't need the auto policy anymore", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 796, "text": "thanks employee got hurt on the job today", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 799, "text": "thanks change the business name on the policy also the venue wants our insurance paperwork before the event", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 800, "text": "hi opening a shop next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 804, "text": "can you add ABC Builders as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 806, "text": "thanks please terminate effective end of month", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 808, "text": "urgent i need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 818, "text": "asap update my card on file", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 820, "text": "hi pricing for a bop policy?", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 823, "text": "hello team change the business name on the policy", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 824, "text": "hello team can I switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 825, "text": "thanks we moved to a new address, update the policy also update my card on file", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 826, "text": "urgent I want to cancel my policy", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 828, "text": "pls client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 830, "text": "quick question: we bought another van", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 831, "text": "hello team employee got hurt on the job today also please terminate effective end of month", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 832, "text": "thanks can you quote commercial auto for 5 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 833, "text": "hi need a quote for general liability for my office", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 834, "text": "hi our payroll went up, do I need to tell you also please send a certificate of insurance to my client", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 840, "text": "following up - i want to cancel my policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 841, "text": "thanks add a new vehicle to my policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 842, "text": "hi how much would workers comp cost for 33 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 843, "text": "hello team need a quote for general liability for my gym", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 844, "text": "hello team what's the rate for liability coverage", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 845, "text": "asap my landlord says i need insurance before i sign the lease also when is my next payment due", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 847, "text": "urgent one of our trucks was in an accident", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 848, "text": "hello team when is my next payment due", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 849, "text": "following up - someone broke into the restaurant and stole equipment", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 851, "text": "quick question: i want to cancel my policy also is there a fee for paying in installments", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 853, "text": "hello team need a quote for general liability for my restaurant", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 854, "text": "urgent add an additional insured to the GL policy", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 857, "text": "pls we hired 32 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 860, "text": "pls update my card on file", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 862, "text": "quick question: water damage at the shop last night, need to file", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 869, "text": "thanks how much would workers comp cost for 35 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 870, "text": "pls pricing for a BOP policy?", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 873, "text": "quick question: the venue wants our insurance paperwork before the event also is there a fee for paying in installments", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 874, "text": "following up - we hired 20 more employees, update workers comp also general contractor is asking for proof of insurance", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 879, "text": "pls when is my next payment due", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 883, "text": "pls opening a office next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 884, "text": "hi how much would workers comp cost for 24 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 890, "text": "urgent need a quote for general liability for my gym", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 892, "text": "found cheaper, cancel at renewal", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 893, "text": "hi opening a gym next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 896, "text": "pls need the acord 25 form also how much would workers comp cost for 5 employees", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 898, "text": "urgent please send a certificate of insurance to my client also please terminate effective end of month", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 901, "text": "quick question: how much would workers comp cost for 8 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 903, "text": "urgent we hired 25 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 911, "text": "pls we sold the company, end the coverage", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 914, "text": "quick question: can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 915, "text": "quick question: is there a fee for paying in installments also client won't pay until they get our insurance certificate", "intent": "billing", "channel": "sms", "split": "new_wording"}
+{"id": 919, "text": "thanks our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 921, "text": "asap is there a fee for paying in installments also don't need the auto policy anymore", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 922, "text": "thanks is there a fee for paying in installments also we bought another van", "intent": "billing", "channel": "call", "split": "new_wording"}
+{"id": 926, "text": "hello team my card was charged twice", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 927, "text": "thanks can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 929, "text": "quick question: need the acord 25 form also change the business name on the policy", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 932, "text": "pls need a quote for general liability for my gym", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 937, "text": "shopping around for business insurance", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 941, "text": "how much would workers comp cost for 16 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 942, "text": "asap send the cert to Lone Star GC today please also one of our trucks was in an accident", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 944, "text": "asap can you quote commercial auto for 37 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 946, "text": "the venue wants our insurance paperwork before the event", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 947, "text": "hi opening a store next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 948, "text": "quick question: looking for insurance for my new salon also need the acord 25 form", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 952, "text": "hello team i need an invoice for my accountant also client won't pay until they get our insurance certificate", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 956, "text": "pls need a quote for general liability for my shop", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 959, "text": "thanks looking for insurance for my new office", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 963, "text": "send the cert to Metro Dev today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 964, "text": "quick question: how much would workers comp cost for 28 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 966, "text": "following up - how much would workers comp cost for 34 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 967, "text": "is there a fee for paying in installments", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 971, "text": "thanks we hired 38 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 972, "text": "hello team how much would workers comp cost for 4 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 975, "text": "asap change the business name on the policy", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 976, "text": "pls can I switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 978, "text": "hi what's the rate for liability coverage also going with another broker", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 980, "text": "thanks need a quote for general liability for my shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 981, "text": "pls how much would workers comp cost for 18 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 982, "text": "a client is suing us over the work we did", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 983, "text": "update my card on file", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 990, "text": "thanks can you quote commercial auto for 6 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 991, "text": "following up - need the acord 25 form", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 993, "text": "urgent client won't pay until they get our insurance certificate also our payroll went up, do I need to tell you", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 998, "text": "got a late payment notice also need the acord 25 form", "intent": "billing", "channel": "call", "split": "new_wording"}
+{"id": 1002, "text": "looking for insurance for my new office", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1005, "text": "thanks I need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1006, "text": "thanks need the acord 25 form", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1007, "text": "can I switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1009, "text": "following up - how much would workers comp cost for 20 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1010, "text": "urgent need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1011, "text": "can you quote commercial auto for 27 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1012, "text": "thanks we hired 12 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1013, "text": "hi water damage at the shop last night, need to file", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1016, "text": "hi need a quote for general liability for my shop", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1017, "text": "pls need a coi for a job site tomorrow also update my card on file", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1022, "text": "following up - how much would workers comp cost for 2 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1023, "text": "asap we hired 11 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1024, "text": "thanks add a new vehicle to my policy also don't need the auto policy anymore", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1025, "text": "asap a customer slipped in my store, what do i do", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 1030, "text": "thanks need the acord 25 form also is there a fee for paying in installments", "intent": "certificate_request", "channel": "call", "split": "new_wording"}
+{"id": 1033, "text": "hello team can you quote commercial auto for 24 trucks also going with another broker", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1034, "text": "urgent looking for insurance for my new shop", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1038, "text": "need a quote for general liability for my shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1039, "text": "pls looking for insurance for my new shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1042, "text": "asap a customer slipped in my shop, what do i do", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1043, "text": "hi we hired 38 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1046, "text": "hello team i need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1051, "text": "hello team kitchen fire this morning", "intent": "claim_report", "channel": "call", "split": "new_wording"}
+{"id": 1054, "text": "hi we hired 39 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 1056, "text": "we bought another van also general contractor is asking for proof of insurance", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1060, "text": "asap add an additional insured to the GL policy also someone broke into the store and stole equipment", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1062, "text": "following up - please terminate effective end of month", "intent": "cancel", "channel": "sms", "split": "new_wording"}
+{"id": 1063, "text": "urgent change the business name on the policy also how much would workers comp cost for 5 employees", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 1064, "text": "thanks need a quote for general liability for my restaurant also client won't pay until they get our insurance certificate", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1065, "text": "urgent found cheaper, cancel at renewal", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1066, "text": "quick question: need a quote for general liability for my restaurant", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1067, "text": "hi send the cert to metro dev today please also found cheaper, cancel at renewal", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1072, "text": "asap need a quote for general liability for my shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1077, "text": "urgent can i switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1079, "text": "pls someone broke into the gym and stole equipment", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 1083, "text": "can you add abc builders as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1084, "text": "urgent opening a restaurant next month, what coverage do I need also a customer slipped in my store, what do I do", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1085, "text": "need a quote for general liability for my gym", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1086, "text": "following up - pricing for a BOP policy? also don't need the auto policy anymore", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1087, "text": "urgent please terminate effective end of month", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 1090, "text": "following up - I want to cancel my policy", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1094, "text": "pls need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1095, "text": "hi need the acord 25 form also a customer slipped in my store, what do I do", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1096, "text": "thanks can I switch to monthly payments", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1099, "text": "hi pricing for a BOP policy?", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1101, "text": "urgent send the cert to Lone Star GC today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1103, "text": "quick question: send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1105, "text": "asap need a coi for a job site tomorrow also pricing for a bop policy?", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1106, "text": "hello team my landlord says i need insurance before i sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 1107, "text": "quick question: opening a salon next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1109, "text": "quick question: don't need the auto policy anymore", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1110, "text": "hello team one of our trucks was in an accident also can you add ABC Builders as certificate holder", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1113, "text": "thanks can you quote commercial auto for 23 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1121, "text": "asap how much would workers comp cost for 6 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1126, "text": "asap the venue wants our insurance paperwork before the event also is there a fee for paying in installments", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1129, "text": "following up - update my card on file also need the acord 25 form", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1131, "text": "hello team pricing for a BOP policy?", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1133, "text": "urgent a client is suing us over the work we did also closing the business, please cancel coverage", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1135, "text": "asap can you quote commercial auto for 25 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1139, "text": "hello team looking for insurance for my new store", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1140, "text": "pls remove a driver from the auto policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1142, "text": "following up - send the cert to Metro Dev today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1146, "text": "hi add an additional insured to the GL policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1149, "text": "urgent need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1155, "text": "quick question: employee got hurt on the job today", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1162, "text": "thanks need a quote for general liability for my store also water damage at the shop last night, need to file", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1164, "text": "thanks opening a office next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1166, "text": "following up - how much would workers comp cost for 28 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1167, "text": "following up - client won't pay until they get our insurance certificate also closing the business, please cancel coverage", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1172, "text": "hello team update my card on file also need the acord 25 form", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1173, "text": "thanks need a COI for a job site tomorrow also we hired 5 more employees, update workers comp", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1174, "text": "opening a office next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1181, "text": "hello team client won't pay until they get our insurance certificate also going with another broker", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1185, "text": "hi how much would workers comp cost for 6 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1189, "text": "pls shopping around for business insurance also water damage at the shop last night, need to file", "intent": "new_quote", "channel": "call", "split": "new_wording"}
+{"id": 1190, "text": "asap how much would workers comp cost for 7 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1198, "text": "asap I need an invoice for my accountant also we hired 5 more employees, update workers comp", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1202, "text": "can you quote commercial auto for 23 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1204, "text": "hi the venue wants our insurance paperwork before the event also pricing for a bop policy?", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1205, "text": "hello team don't need the auto policy anymore", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 1208, "text": "pls a client is suing us over the work we did", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1209, "text": "pls send the cert to metro dev today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1210, "text": "need a COI for a job site tomorrow also closing the business, please cancel coverage", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1211, "text": "thanks how much would workers comp cost for 33 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1218, "text": "thanks can you quote commercial auto for 8 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1222, "text": "asap we bought another van", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1224, "text": "hi when is my next payment due also opening a store next month, what coverage do I need", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1226, "text": "quick question: need a COI for a job site tomorrow", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1229, "text": "urgent we sold the company, end the coverage also what's the rate for liability coverage", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 1230, "text": "hello team we hired 23 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1231, "text": "pls pricing for a bop policy? also found cheaper, cancel at renewal", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1232, "text": "hello team how much would workers comp cost for 36 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1233, "text": "hello team send the cert to lone star gc today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1234, "text": "asap our payroll went up, do I need to tell you also please send a certificate of insurance to my client", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 1236, "text": "hello team my card was charged twice also kitchen fire this morning", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1238, "text": "remove a driver from the auto policy", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1240, "text": "asap my card was charged twice also kitchen fire this morning", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 1242, "text": "hello team we sold the company, end the coverage", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 1248, "text": "quick question: can you quote commercial auto for 5 trucks also don't need the auto policy anymore", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1252, "text": "urgent got a late payment notice", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 1253, "text": "hi found cheaper, cancel at renewal", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1256, "text": "hello team can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1265, "text": "thanks when is my next payment due also opening a store next month, what coverage do I need", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1267, "text": "following up - opening a office next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1269, "text": "need the acord 25 form also add an additional insured to the gl policy", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 1271, "text": "following up - please send a certificate of insurance to my client also found cheaper, cancel at renewal", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1272, "text": "urgent can you quote commercial auto for 29 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1273, "text": "following up - pricing for a BOP policy? also one of our trucks was in an accident", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1281, "text": "i want to cancel my policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1283, "text": "pls need a quote for general liability for my restaurant", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1291, "text": "urgent remove a driver from the auto policy also going with another broker", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1292, "text": "my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 1293, "text": "thanks general contractor is asking for proof of insurance also we moved to a new address, update the policy", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1297, "text": "pls found cheaper, cancel at renewal", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1305, "text": "a customer slipped in my office, what do i do", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 1306, "text": "quick question: how much would workers comp cost for 22 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1309, "text": "asap opening a office next month, what coverage do i need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1312, "text": "hello team employee got hurt on the job today", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1315, "text": "urgent need the acord 25 form", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1319, "text": "thanks why did my premium go up this month also pricing for a BOP policy?", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1320, "text": "hi someone broke into the gym and stole equipment", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1321, "text": "quick question: can I switch to monthly payments also add an additional insured to the GL policy", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1323, "text": "quick question: why did my premium go up this month also going with another broker", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 1324, "text": "hi need a quote for general liability for my gym", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1326, "text": "asap kitchen fire this morning", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 1327, "text": "thanks a client is suing us over the work we did", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1331, "text": "quick question: update my card on file also looking for insurance for my new store", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 1332, "text": "quick question: how much would workers comp cost for 37 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1338, "text": "following up - change the business name on the policy also closing the business, please cancel coverage", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 1342, "text": "add an additional insured to the gl policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1344, "text": "thanks can you add metro dev as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1345, "text": "hello team need the acord 25 form also we hired 5 more employees, update workers comp", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1346, "text": "thanks I want to cancel my policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1348, "text": "thanks can you quote commercial auto for 27 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1352, "text": "following up - can you quote commercial auto for 4 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1354, "text": "pls change the business name on the policy also my card was charged twice", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 1356, "text": "following up - water damage at the shop last night, need to file also need a quote for general liability for my store", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 1357, "text": "following up - client won't pay until they get our insurance certificate", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 1358, "text": "following up - stop my policy from renewing", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1359, "text": "pls don't need the auto policy anymore", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1360, "text": "pls how much would workers comp cost for 23 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1363, "text": "thanks need the acord 25 form also add a new vehicle to my policy", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 1372, "text": "urgent our driver rear-ended someone", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 1373, "text": "hello team how much would workers comp cost for 28 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1374, "text": "quick question: someone broke into the office and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1375, "text": "thanks found cheaper, cancel at renewal also shopping around for business insurance", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1376, "text": "hello team can you add Lone Star GC as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1379, "text": "asap can you quote commercial auto for 23 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1380, "text": "urgent can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1381, "text": "quick question: our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 1384, "text": "pls update my card on file also we sold the company, end the coverage", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 1390, "text": "quick question: how much would workers comp cost for 34 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1395, "text": "asap how much would workers comp cost for 10 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1396, "text": "following up - we hired 33 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1397, "text": "thanks can you quote commercial auto for 26 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1399, "text": "asap looking for insurance for my new office", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1400, "text": "asap the venue wants our insurance paperwork before the event also our payroll went up, do I need to tell you", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1402, "text": "urgent closing the business, please cancel coverage", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1409, "text": "quick question: can I switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1421, "text": "pls send the cert to Metro Dev today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1422, "text": "following up - need a quote for general liability for my gym", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1426, "text": "urgent how much would workers comp cost for 12 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1429, "text": "hi how much would workers comp cost for 12 employees also please send a certificate of insurance to my client", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1437, "text": "urgent opening a restaurant next month, what coverage do I need also is there a fee for paying in installments", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1439, "text": "my card was charged twice", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1449, "text": "following up - a customer slipped in my salon, what do i do", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 1450, "text": "following up - remove a driver from the auto policy also a customer slipped in my store, what do I do", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1461, "text": "hello team remove a driver from the auto policy also update my card on file", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1462, "text": "hi can you add Lone Star GC as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1463, "text": "quick question: one of our trucks was in an accident", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1464, "text": "urgent stop my policy from renewing", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 1466, "text": "hi can i switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1467, "text": "asap add a new vehicle to my policy also how much would workers comp cost for 5 employees", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1470, "text": "hi how much would workers comp cost for 16 employees also we sold the company, end the coverage", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1484, "text": "asap can you quote commercial auto for 30 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1485, "text": "send the cert to Lone Star GC today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1490, "text": "quick question: how much would workers comp cost for 10 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1492, "text": "following up - can you quote commercial auto for 5 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1495, "text": "hello team need the acord 25 form also one of our trucks was in an accident", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 1496, "text": "send the cert to abc builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1497, "text": "following up - can you add lone star gc as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1499, "text": "hello team need the acord 25 form also a customer slipped in my store, what do i do", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1501, "text": "quick question: I want to cancel my policy", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1502, "text": "thanks my landlord says I need insurance before I sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 1508, "text": "send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1509, "text": "hi change the business name on the policy also shopping around for business insurance", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 1516, "text": "thanks my landlord says i need insurance before i sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 1517, "text": "following up - our driver rear-ended someone", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 1519, "text": "can you quote commercial auto for 22 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1520, "text": "asap closing the business, please cancel coverage also one of our trucks was in an accident", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1522, "text": "asap someone broke into the gym and stole equipment", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1524, "text": "asap found cheaper, cancel at renewal", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1526, "text": "pls we hired 26 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 1527, "text": "following up - need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1529, "text": "hi update my card on file also please terminate effective end of month", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1537, "text": "following up - update my card on file also employee got hurt on the job today", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1541, "text": "hi a customer slipped in my gym, what do I do", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 1542, "text": "quick question: can you quote commercial auto for 25 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1543, "text": "thanks how much would workers comp cost for 30 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1544, "text": "following up - add an additional insured to the GL policy also how much would workers comp cost for 5 employees", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1557, "text": "urgent the venue wants our insurance paperwork before the event also pricing for a BOP policy?", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1561, "text": "following up - we bought another van also pricing for a BOP policy?", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1562, "text": "hello team opening a restaurant next month, what coverage do i need", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1563, "text": "quick question: how much would workers comp cost for 11 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1565, "text": "asap looking for insurance for my new salon", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1568, "text": "hello team water damage at the shop last night, need to file also change the business name on the policy", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1569, "text": "hello team i want to cancel my policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1573, "text": "hello team can you add lone star gc as certificate holder also a client is suing us over the work we did", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1577, "text": "following up - a customer slipped in my store, what do i do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1582, "text": "hello team what's the rate for liability coverage also water damage at the shop last night, need to file", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1583, "text": "quick question: how much would workers comp cost for 27 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1586, "text": "asap I want to cancel my policy also can you quote commercial auto for 5 trucks", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1592, "text": "we hired 19 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1595, "text": "I want to cancel my policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1600, "text": "quick question: opening a shop next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1603, "text": "asap can you quote commercial auto for 38 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1607, "text": "asap a customer slipped in my shop, what do I do also need a COI for a job site tomorrow", "intent": "claim_report", "channel": "sms", "split": "familiar"}
+{"id": 1609, "text": "hello team closing the business, please cancel coverage also need a COI for a job site tomorrow", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1614, "text": "hi opening a shop next month, what coverage do i need also please send a certificate of insurance to my client", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1621, "text": "hello team add an additional insured to the gl policy also opening a store next month, what coverage do i need", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1625, "text": "following up - one of our trucks was in an accident", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1626, "text": "pls need a quote for general liability for my gym also add a new vehicle to my policy", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1629, "text": "hi can you add ABC Builders as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1631, "text": "asap opening a store next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1635, "text": "thanks closing the business, please cancel coverage also add an additional insured to the gl policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1640, "text": "following up - opening a salon next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1641, "text": "why did my premium go up this month also add an additional insured to the GL policy", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1643, "text": "urgent we hired 23 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1645, "text": "asap got a late payment notice", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 1650, "text": "hi our driver rear-ended someone also add a new vehicle to my policy", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 1655, "text": "thanks opening a shop next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1658, "text": "hi we hired 13 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 1659, "text": "hello team a customer slipped in my gym, what do I do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1660, "text": "following up - kitchen fire this morning also looking for insurance for my new store", "intent": "claim_report", "channel": "call", "split": "new_wording"}
+{"id": 1664, "text": "pls we bought another van also someone broke into the store and stole equipment", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 1665, "text": "urgent what's the rate for liability coverage also can I switch to monthly payments", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1666, "text": "pls one of our trucks was in an accident also got a late payment notice", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 1667, "text": "asap how much would workers comp cost for 34 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1671, "text": "hello team please send a certificate of insurance to my client also going with another broker", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1672, "text": "thanks send the cert to ABC Builders today please also going with another broker", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1674, "text": "quick question: send the cert to metro dev today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1681, "text": "hi looking for insurance for my new gym", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1682, "text": "thanks update my card on file also going with another broker", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1684, "text": "urgent can you quote commercial auto for 2 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1685, "text": "thanks general contractor is asking for proof of insurance also can you quote commercial auto for 5 trucks", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1691, "text": "pls I want to cancel my policy", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 1699, "text": "thanks we hired 28 more employees, update workers comp also general contractor is asking for proof of insurance", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1701, "text": "urgent we hired 34 more employees, update workers comp also please terminate effective end of month", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 1706, "text": "following up - send the cert to lone star gc today please also got a late payment notice", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1708, "text": "asap we hired 26 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 1710, "text": "asap can you add ABC Builders as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1712, "text": "hello team general contractor is asking for proof of insurance also how much would workers comp cost for 5 employees", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1720, "text": "opening a restaurant next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1721, "text": "urgent opening a salon next month, what coverage do i need", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1722, "text": "thanks can you quote commercial auto for 4 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1727, "text": "hi a customer slipped in my shop, what do I do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1728, "text": "thanks closing the business, please cancel coverage", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1730, "text": "urgent our payroll went up, do i need to tell you also my card was charged twice", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 1731, "text": "hi water damage at the shop last night, need to file also why did my premium go up this month", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1739, "text": "asap can I switch to monthly payments", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1742, "text": "quick question: client won't pay until they get our insurance certificate also add an additional insured to the gl policy", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 1750, "text": "quick question: my landlord says i need insurance before i sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 1751, "text": "following up - we hired 17 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1756, "text": "following up - looking for insurance for my new gym", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1765, "text": "got a late payment notice", "intent": "billing", "channel": "call", "split": "new_wording"}
+{"id": 1768, "text": "hello team can i switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1770, "text": "following up - opening a shop next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1771, "text": "quick question: pricing for a BOP policy?", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1773, "text": "quick question: someone broke into the store and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1774, "text": "hi my card was charged twice also general contractor is asking for proof of insurance", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1776, "text": "got a late payment notice also we bought another van", "intent": "billing", "channel": "call", "split": "new_wording"}
+{"id": 1782, "text": "how much would workers comp cost for 39 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1786, "text": "quick question: i want to cancel my policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1787, "text": "pls can you add abc builders as certificate holder", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1789, "text": "asap looking for insurance for my new store also please send a certificate of insurance to my client", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1790, "text": "following up - found cheaper, cancel at renewal also looking for insurance for my new store", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1802, "text": "thanks need a quote for general liability for my store", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1803, "text": "following up - client won't pay until they get our insurance certificate also my landlord says i need insurance before i sign the lease", "intent": "certificate_request", "channel": "call", "split": "new_wording"}
+{"id": 1804, "text": "quick question: we hired 31 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1807, "text": "one of our trucks was in an accident", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1812, "text": "quick question: going with another broker", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 1813, "text": "hello team opening a office next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1815, "text": "hi opening a salon next month, what coverage do I need", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1816, "text": "quick question: please terminate effective end of month also we bought another van", "intent": "cancel", "channel": "sms", "split": "new_wording"}
+{"id": 1821, "text": "hello team we hired 7 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 1822, "text": "pls please terminate effective end of month", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 1825, "text": "pls change the business name on the policy", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 1826, "text": "asap someone broke into the salon and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1828, "text": "following up - can I switch to monthly payments", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 1831, "text": "hi can you quote commercial auto for 2 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1833, "text": "following up - my card was charged twice also stop my policy from renewing", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 1837, "text": "following up - send the cert to ABC Builders today please also a customer slipped in my store, what do I do", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1839, "text": "we hired 14 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1840, "text": "pls can you add metro dev as certificate holder also got a late payment notice", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1841, "text": "quick question: my landlord says i need insurance before i sign the lease also going with another broker", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 1843, "text": "quick question: looking for insurance for my new shop", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1852, "text": "urgent opening a gym next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1853, "text": "asap send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1854, "text": "pricing for a bop policy?", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1861, "text": "opening a gym next month, what coverage do i need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1877, "text": "how much would workers comp cost for 3 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1878, "text": "quick question: need a quote for general liability for my office", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1881, "text": "quick question: need a COI for a job site tomorrow also is there a fee for paying in installments", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1890, "text": "urgent we sold the company, end the coverage", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1894, "text": "asap update my card on file also change the business name on the policy", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 1895, "text": "thanks we sold the company, end the coverage", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 1896, "text": "hi when is my next payment due also closing the business, please cancel coverage", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 1897, "text": "quick question: can you quote commercial auto for 32 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1899, "text": "opening a office next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1901, "text": "urgent we hired 33 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 1910, "text": "pls need the acord 25 form also a client is suing us over the work we did", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1917, "text": "hello team water damage at the shop last night, need to file also client won't pay until they get our insurance certificate", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1918, "text": "asap we sold the company, end the coverage", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 1928, "text": "quick question: the venue wants our insurance paperwork before the event also we hired 5 more employees, update workers comp", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1930, "text": "hello team send the cert to metro dev today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1931, "text": "hi I need an invoice for my accountant", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1934, "text": "pls can you add ABC Builders as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1936, "text": "hello team can you add lone star gc as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1940, "text": "thanks our payroll went up, do i need to tell you", "intent": "policy_change", "channel": "email", "split": "new_wording"}
+{"id": 1948, "text": "pls a customer slipped in my gym, what do I do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 1949, "text": "thanks can you quote commercial auto for 39 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 1950, "text": "I need an invoice for my accountant", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 1957, "text": "urgent can I switch to monthly payments also we moved to a new address, update the policy", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 1961, "text": "hi kitchen fire this morning", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 1964, "text": "need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1971, "text": "quick question: the venue wants our insurance paperwork before the event also going with another broker", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 1972, "text": "hello team I want to cancel my policy", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 1973, "text": "is there a fee for paying in installments also the venue wants our insurance paperwork before the event", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 1974, "text": "hi looking for insurance for my new store", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1977, "text": "hello team client won't pay until they get our insurance certificate also can you quote commercial auto for 5 trucks", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 1979, "text": "hi looking for insurance for my new shop", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 1980, "text": "thanks can you add Metro Dev as certificate holder also closing the business, please cancel coverage", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 1983, "text": "thanks our driver rear-ended someone also my card was charged twice", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 1985, "text": "looking for insurance for my new gym", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 1988, "text": "a customer slipped in my office, what do I do", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 1989, "text": "asap need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 1990, "text": "urgent looking for insurance for my new store", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2002, "text": "opening a shop next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2010, "text": "asap is there a fee for paying in installments also remove a driver from the auto policy", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 2013, "text": "pls don't need the auto policy anymore also need a COI for a job site tomorrow", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2016, "text": "urgent need the acord 25 form also our payroll went up, do i need to tell you", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 2022, "text": "urgent going with another broker", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 2031, "text": "hi need a quote for general liability for my restaurant", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2042, "text": "quick question: we hired 18 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2049, "text": "pls general contractor is asking for proof of insurance also pricing for a BOP policy?", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2052, "text": "urgent someone broke into the shop and stole equipment", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 2058, "text": "opening a salon next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2060, "text": "hello team can you add Metro Dev as certificate holder also my card was charged twice", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2062, "text": "asap opening a shop next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2063, "text": "hello team shopping around for business insurance also a client is suing us over the work we did", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 2065, "text": "quick question: we sold the company, end the coverage", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 2071, "text": "following up - need a COI for a job site tomorrow also going with another broker", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2074, "text": "thanks can you add Lone Star GC as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2081, "text": "urgent my landlord says i need insurance before i sign the lease", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 2085, "text": "can you quote commercial auto for 10 trucks also why did my premium go up this month", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2086, "text": "following up - can you quote commercial auto for 28 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2099, "text": "the venue wants our insurance paperwork before the event also kitchen fire this morning", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2109, "text": "pls how much would workers comp cost for 13 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2111, "text": "when is my next payment due also our driver rear-ended someone", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2112, "text": "thanks update my card on file also we moved to a new address, update the policy", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2113, "text": "hello team pricing for a bop policy? also our driver rear-ended someone", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2120, "text": "following up - going with another broker", "intent": "cancel", "channel": "sms", "split": "new_wording"}
+{"id": 2122, "text": "my card was charged twice also a client is suing us over the work we did", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2124, "text": "can you quote commercial auto for 6 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2125, "text": "quick question: can you quote commercial auto for 33 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2128, "text": "quick question: send the cert to lone star gc today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2129, "text": "hello team need the acord 25 form also I want to cancel my policy", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 2132, "text": "asap how much would workers comp cost for 32 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2134, "text": "thanks don't need the auto policy anymore", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2153, "text": "pls send the cert to lone star gc today please", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2156, "text": "asap add an additional insured to the gl policy", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2159, "text": "pls how much would workers comp cost for 19 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2161, "text": "pls opening a salon next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2164, "text": "my landlord says I need insurance before I sign the lease also the venue wants our insurance paperwork before the event", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 2165, "text": "hi we hired 37 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 2169, "text": "hi remove a driver from the auto policy also need a coi for a job site tomorrow", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2170, "text": "thanks looking for insurance for my new store", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2171, "text": "asap can i switch to monthly payments also looking for insurance for my new store", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 2174, "text": "following up - please terminate effective end of month also the venue wants our insurance paperwork before the event", "intent": "cancel", "channel": "email", "split": "new_wording"}
+{"id": 2180, "text": "thanks can you quote commercial auto for 35 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2207, "text": "hi we hired 20 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 2217, "text": "following up - looking for insurance for my new shop also kitchen fire this morning", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2223, "text": "urgent someone broke into the office and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2224, "text": "thanks the venue wants our insurance paperwork before the event also water damage at the shop last night, need to file", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2226, "text": "asap is there a fee for paying in installments also stop my policy from renewing", "intent": "billing", "channel": "sms", "split": "new_wording"}
+{"id": 2231, "text": "hello team why did my premium go up this month also opening a store next month, what coverage do i need", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2245, "text": "pls employee got hurt on the job today", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 2248, "text": "hi can i switch to monthly payments also change the business name on the policy", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2259, "text": "can you quote commercial auto for 19 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2261, "text": "asap opening a gym next month, what coverage do i need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2262, "text": "my landlord says I need insurance before I sign the lease also going with another broker", "intent": "new_quote", "channel": "call", "split": "new_wording"}
+{"id": 2264, "text": "quick question: change the business name on the policy also please send a certificate of insurance to my client", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 2267, "text": "thanks pricing for a bop policy? also can you add abc builders as certificate holder", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2271, "text": "thanks send the cert to metro dev today please also remove a driver from the auto policy", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2272, "text": "asap how much would workers comp cost for 3 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2274, "text": "hello team send the cert to Metro Dev today please also is there a fee for paying in installments", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2276, "text": "quick question: we hired 6 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2277, "text": "hi can i switch to monthly payments also the venue wants our insurance paperwork before the event", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 2278, "text": "asap can you quote commercial auto for 36 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2279, "text": "why did my premium go up this month also we moved to a new address, update the policy", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2281, "text": "asap water damage at the shop last night, need to file also going with another broker", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 2282, "text": "pls my landlord says i need insurance before i sign the lease also employee got hurt on the job today", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 2287, "text": "following up - how much would workers comp cost for 5 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2290, "text": "urgent can you add lone star gc as certificate holder", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2293, "text": "hello team pricing for a bop policy? also a customer slipped in my store, what do i do", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2298, "text": "hello team we moved to a new address, update the policy also is there a fee for paying in installments", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2305, "text": "quick question: can I switch to monthly payments also we moved to a new address, update the policy", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 2308, "text": "following up - don't need the auto policy anymore also remove a driver from the auto policy", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 2310, "text": "looking for insurance for my new gym also I need an invoice for my accountant", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2311, "text": "pls opening a shop next month, what coverage do i need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2316, "text": "pls the venue wants our insurance paperwork before the event also we sold the company, end the coverage", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2317, "text": "pls what's the rate for liability coverage also why did my premium go up this month", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2324, "text": "pls how much would workers comp cost for 38 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2326, "text": "urgent how much would workers comp cost for 26 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2331, "text": "hello team my landlord says i need insurance before i sign the lease also water damage at the shop last night, need to file", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 2334, "text": "asap we hired 28 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2338, "text": "need a quote for general liability for my salon", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2341, "text": "quick question: can you quote commercial auto for 16 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2343, "text": "pls what's the rate for liability coverage also got a late payment notice", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2347, "text": "quick question: need the acord 25 form also our driver rear-ended someone", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 2352, "text": "pls don't need the auto policy anymore also our payroll went up, do i need to tell you", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2358, "text": "quick question: my landlord says i need insurance before i sign the lease also stop my policy from renewing", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 2365, "text": "following up - can you quote commercial auto for 16 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2370, "text": "we hired 9 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2372, "text": "pls need a quote for general liability for my office", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2373, "text": "pls stop my policy from renewing", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2377, "text": "quick question: can you quote commercial auto for 36 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2378, "text": "pls looking for insurance for my new restaurant", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2381, "text": "asap pricing for a BOP policy? also my card was charged twice", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2383, "text": "following up - general contractor is asking for proof of insurance also stop my policy from renewing", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2384, "text": "hi we hired 24 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2390, "text": "thanks can you quote commercial auto for 32 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2394, "text": "quick question: a customer slipped in my gym, what do i do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2396, "text": "hi need a COI for a job site tomorrow also need a quote for general liability for my store", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2398, "text": "following up - we hired 37 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2399, "text": "following up - a customer slipped in my shop, what do I do", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 2404, "text": "asap can i switch to monthly payments", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2407, "text": "asap shopping around for business insurance also need a COI for a job site tomorrow", "intent": "new_quote", "channel": "email", "split": "new_wording"}
+{"id": 2409, "text": "hi the venue wants our insurance paperwork before the event also i need an invoice for my accountant", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 2413, "text": "hello team stop my policy from renewing", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2414, "text": "thanks how much would workers comp cost for 6 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2415, "text": "opening a salon next month, what coverage do i need also send the cert to abc builders today please", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2421, "text": "following up - need a quote for general liability for my restaurant", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2422, "text": "hi can you quote commercial auto for 24 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2428, "text": "following up - we moved to a new address, update the policy also update my card on file", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2436, "text": "urgent add an additional insured to the GL policy also someone broke into the store and stole equipment", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2437, "text": "can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2441, "text": "asap what's the rate for liability coverage also client won't pay until they get our insurance certificate", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2450, "text": "following up - closing the business, please cancel coverage", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 2457, "text": "following up - how much would workers comp cost for 12 employees also can you add ABC Builders as certificate holder", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2461, "text": "thanks how much would workers comp cost for 10 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2467, "text": "following up - we hired 39 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2474, "text": "hello team send the cert to abc builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2479, "text": "following up - opening a store next month, what coverage do I need also a customer slipped in my store, what do I do", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2482, "text": "looking for insurance for my new store", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2483, "text": "thanks how much would workers comp cost for 8 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2490, "text": "urgent i need an invoice for my accountant also our payroll went up, do i need to tell you", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 2495, "text": "quick question: can you add Metro Dev as certificate holder also got a late payment notice", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 2498, "text": "following up - one of our trucks was in an accident also what's the rate for liability coverage", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2500, "text": "following up - need a quote for general liability for my salon", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2501, "text": "following up - the venue wants our insurance paperwork before the event also one of our trucks was in an accident", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2505, "text": "quick question: we hired 30 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2506, "text": "pls looking for insurance for my new gym", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2511, "text": "quick question: how much would workers comp cost for 34 employees also someone broke into the store and stole equipment", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2512, "text": "asap can you add Metro Dev as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2515, "text": "asap got a late payment notice also looking for insurance for my new store", "intent": "billing", "channel": "email", "split": "new_wording"}
+{"id": 2517, "text": "quick question: looking for insurance for my new office", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2526, "text": "how much would workers comp cost for 2 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2529, "text": "asap looking for insurance for my new shop", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2531, "text": "pls need the acord 25 form also please terminate effective end of month", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 2534, "text": "following up - we sold the company, end the coverage", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 2536, "text": "hello team found cheaper, cancel at renewal also the venue wants our insurance paperwork before the event", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2538, "text": "quick question: client won't pay until they get our insurance certificate also closing the business, please cancel coverage", "intent": "certificate_request", "channel": "sms", "split": "new_wording"}
+{"id": 2542, "text": "pls we moved to a new address, update the policy also is there a fee for paying in installments", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2546, "text": "hello team can you quote commercial auto for 16 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2553, "text": "thanks send the cert to lone star gc today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2555, "text": "hi pricing for a BOP policy? also I want to cancel my policy", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2556, "text": "following up - how much would workers comp cost for 27 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2564, "text": "how much would workers comp cost for 31 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2574, "text": "urgent can you quote commercial auto for 24 trucks also update my card on file", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2577, "text": "can you quote commercial auto for 16 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2578, "text": "urgent send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2587, "text": "thanks my card was charged twice also change the business name on the policy", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2589, "text": "opening a shop next month, what coverage do I need", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2596, "text": "hi looking for insurance for my new gym also our payroll went up, do i need to tell you", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2597, "text": "pls opening a store next month, what coverage do I need", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2598, "text": "thanks can you quote commercial auto for 18 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2609, "text": "following up - can you quote commercial auto for 18 trucks also send the cert to abc builders today please", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2610, "text": "update my card on file also need the acord 25 form", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 2611, "text": "hi we hired 35 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2613, "text": "urgent we hired 39 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 2614, "text": "quick question: remove a driver from the auto policy also stop my policy from renewing", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2617, "text": "quick question: can you quote commercial auto for 3 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2618, "text": "thanks how much would workers comp cost for 25 employees", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2627, "text": "following up - a client is suing us over the work we did also we bought another van", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2639, "text": "following up - someone broke into the store and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2641, "text": "pls we hired 11 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2642, "text": "quick question: change the business name on the policy also can I switch to monthly payments", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 2644, "text": "quick question: someone broke into the gym and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2646, "text": "pls remove a driver from the auto policy also is there a fee for paying in installments", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2656, "text": "asap we hired 34 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2658, "text": "urgent need a quote for general liability for my store", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2660, "text": "client won't pay until they get our insurance certificate also update my card on file", "intent": "certificate_request", "channel": "email", "split": "new_wording"}
+{"id": 2663, "text": "pls looking for insurance for my new gym also closing the business, please cancel coverage", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2673, "text": "hello team what's the rate for liability coverage also I need an invoice for my accountant", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2675, "text": "pls opening a restaurant next month, what coverage do I need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2676, "text": "urgent can i switch to monthly payments also employee got hurt on the job today", "intent": "billing", "channel": "call", "split": "familiar"}
+{"id": 2677, "text": "hi need a quote for general liability for my salon", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2681, "text": "hi send the cert to Lone Star GC today please also why did my premium go up this month", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2684, "text": "hello team we hired 13 more employees, update workers comp", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2687, "text": "thanks send the cert to metro dev today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 2690, "text": "following up - can you add Lone Star GC as certificate holder also we hired 5 more employees, update workers comp", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2707, "text": "hi need a coi for a job site tomorrow", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2709, "text": "quick question: can you add lone star gc as certificate holder", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2713, "text": "remove a driver from the auto policy also closing the business, please cancel coverage", "intent": "policy_change", "channel": "email", "split": "familiar"}
+{"id": 2716, "text": "urgent opening a restaurant next month, what coverage do I need also please send a certificate of insurance to my client", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2720, "text": "urgent can you quote commercial auto for 23 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2721, "text": "quick question: how much would workers comp cost for 6 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2722, "text": "following up - we hired 18 more employees, update workers comp also found cheaper, cancel at renewal", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2723, "text": "hi add a new vehicle to my policy also when is my next payment due", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2724, "text": "thanks can you quote commercial auto for 14 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2736, "text": "thanks water damage at the shop last night, need to file also our payroll went up, do I need to tell you", "intent": "claim_report", "channel": "call", "split": "familiar"}
+{"id": 2737, "text": "quick question: is there a fee for paying in installments also add an additional insured to the GL policy", "intent": "billing", "channel": "sms", "split": "new_wording"}
+{"id": 2738, "text": "pls i need an invoice for my accountant", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2741, "text": "quick question: i want to cancel my policy also a client is suing us over the work we did", "intent": "cancel", "channel": "sms", "split": "familiar"}
+{"id": 2744, "text": "thanks i need an invoice for my accountant also need the acord 25 form", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2751, "text": "asap send the cert to metro dev today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 2753, "text": "quick question: looking for insurance for my new restaurant", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2754, "text": "quick question: general contractor is asking for proof of insurance also my landlord says I need insurance before I sign the lease", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 2764, "text": "following up - a customer slipped in my salon, what do I do", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2767, "text": "hello team my landlord says i need insurance before i sign the lease also can you add abc builders as certificate holder", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 2771, "text": "opening a restaurant next month, what coverage do i need also please terminate effective end of month", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2772, "text": "our payroll went up, do I need to tell you also client won't pay until they get our insurance certificate", "intent": "policy_change", "channel": "call", "split": "new_wording"}
+{"id": 2778, "text": "following up - how much would workers comp cost for 30 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2789, "text": "quick question: don't need the auto policy anymore also remove a driver from the auto policy", "intent": "cancel", "channel": "call", "split": "familiar"}
+{"id": 2793, "text": "hi someone broke into the store and stole equipment", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2797, "text": "quick question: we hired 35 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 2803, "text": "quick question: need a quote for general liability for my store", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2806, "text": "hi closing the business, please cancel coverage", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2808, "text": "following up - opening a salon next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2809, "text": "thanks opening a salon next month, what coverage do i need", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2815, "text": "kitchen fire this morning also got a late payment notice", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 2818, "text": "urgent can you quote commercial auto for 27 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2819, "text": "asap my landlord says i need insurance before i sign the lease", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 2829, "text": "urgent the venue wants our insurance paperwork before the event also can you quote commercial auto for 5 trucks", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 2835, "text": "please send a certificate of insurance to my client also please terminate effective end of month", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2836, "text": "thanks add an additional insured to the GL policy", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 2845, "text": "following up - can I switch to monthly payments also how much would workers comp cost for 5 employees", "intent": "billing", "channel": "sms", "split": "familiar"}
+{"id": 2852, "text": "quick question: update my card on file also need the acord 25 form", "intent": "billing", "channel": "email", "split": "familiar"}
+{"id": 2860, "text": "quick question: how much would workers comp cost for 25 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2866, "text": "following up - how much would workers comp cost for 17 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2880, "text": "hi send the cert to ABC Builders today please", "intent": "certificate_request", "channel": "call", "split": "familiar"}
+{"id": 2882, "text": "quick question: how much would workers comp cost for 23 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2894, "text": "following up - can you quote commercial auto for 17 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2899, "text": "pls looking for insurance for my new shop also don't need the auto policy anymore", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2904, "text": "hello team looking for insurance for my new office", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2910, "text": "hi can you quote commercial auto for 9 trucks also why did my premium go up this month", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2912, "text": "quick question: I want to cancel my policy also general contractor is asking for proof of insurance", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2915, "text": "urgent how much would workers comp cost for 39 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2917, "text": "hi one of our trucks was in an accident", "intent": "claim_report", "channel": "email", "split": "familiar"}
+{"id": 2918, "text": "pls can you quote commercial auto for 35 trucks", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2920, "text": "hello team how much would workers comp cost for 5 employees also I want to cancel my policy", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2925, "text": "hi we hired 20 more employees, update workers comp also our driver rear-ended someone", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2926, "text": "urgent how much would workers comp cost for 2 employees", "intent": "new_quote", "channel": "sms", "split": "familiar"}
+{"id": 2933, "text": "how much would workers comp cost for 28 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2934, "text": "thanks please send a certificate of insurance to my client also is there a fee for paying in installments", "intent": "certificate_request", "channel": "email", "split": "familiar"}
+{"id": 2943, "text": "pls our driver rear-ended someone also update my card on file", "intent": "claim_report", "channel": "email", "split": "new_wording"}
+{"id": 2955, "text": "hi our payroll went up, do I need to tell you", "intent": "policy_change", "channel": "sms", "split": "new_wording"}
+{"id": 2969, "text": "quick question: how much would workers comp cost for 35 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2971, "text": "hello team shopping around for business insurance also my card was charged twice", "intent": "new_quote", "channel": "sms", "split": "new_wording"}
+{"id": 2972, "text": "quick question: we hired 34 more employees, update workers comp", "intent": "policy_change", "channel": "sms", "split": "familiar"}
+{"id": 2974, "text": "hello team can you quote commercial auto for 21 trucks", "intent": "new_quote", "channel": "call", "split": "familiar"}
+{"id": 2976, "text": "urgent send the cert to Lone Star GC today please also pricing for a BOP policy?", "intent": "certificate_request", "channel": "sms", "split": "familiar"}
+{"id": 2981, "text": "following up - don't need the auto policy anymore also I need an invoice for my accountant", "intent": "cancel", "channel": "email", "split": "familiar"}
+{"id": 2987, "text": "pls how much would workers comp cost for 29 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2990, "text": "pls we hired 19 more employees, update workers comp", "intent": "policy_change", "channel": "call", "split": "familiar"}
+{"id": 2995, "text": "asap how much would workers comp cost for 9 employees", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2996, "text": "hello team can you quote commercial auto for 24 trucks", "intent": "new_quote", "channel": "email", "split": "familiar"}
+{"id": 2999, "text": "pls going with another broker also please send a certificate of insurance to my client", "intent": "cancel", "channel": "email", "split": "new_wording"}

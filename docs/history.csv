@@ -1,0 +1,2 @@
+date,mode,model,familiar_n,familiar_accuracy,familiar_auto_rate,familiar_auto_accuracy,familiar_claim_to_human,familiar_fallback_rate,familiar_median_latency_ms,new_wording_n,new_wording_accuracy,new_wording_auto_rate,new_wording_auto_accuracy,new_wording_claim_to_human,new_wording_fallback_rate,new_wording_median_latency_ms
+2026-11-06,fallback-only,none (local fallback),40,0.975,0.525,1.0,1.0,0.875,1,40,0.2,0.15,0.0,1.0,0.825,1
